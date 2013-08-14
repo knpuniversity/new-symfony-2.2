@@ -1,0 +1,16 @@
+.yo-dawg {
+    color: #fff;
+}
+.fragment-container {
+    padding: 25px;
+    text-align: center;
+    background: #ccc;
+}
+
+.inner-box {
+    border-color: #000;
+    border-style: dashed;
+    border-width: 2px;
+    text-align: center;
+    padding: 50px;
+}

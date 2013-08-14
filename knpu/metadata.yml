@@ -1,0 +1,53 @@
+title:  What's new in Symfony 2.2 + ESI Fragments Bonus
+price:  0
+length: 22:41
+summary: |
+    Symfony 2.2 is out and wonderful! If you're thinking about upgrading,
+    there are a few important changes to be aware of and a bunch of great
+    new features.
+    
+    In this screencast, we'll talk about how to upgrade, things to watch
+    out for, and some new features. We dive a bit deeper into caching and
+    ESI in Symfony by exploring the new fragments framework (formerly sub-requests).
+    If you've been thinking about caching or are confused by the new changes,
+    this is for you!
+    
+    Highlights:
+        * The new fragments framework, ESI, the `ProxyListener`, trusted proxies
+        * Host Routing
+        * New tools inside the console commands
+        * Upgrading to Symfony3!!??
+illustration: new-2.2.png
+priority: 120
+tags:
+    - { name: symfony }
+
+chapters:
+    upgrade:
+        title:      Woh! 2.2 is here!
+        is_free:    true
+        length:     1:22
+    upgrading:
+        title:      Upgrading to 2.2
+        is_free:    true
+        length:     3:46
+    "fragments-esi-caching":
+        title:      Fragments, ESI and Caching
+        is_free:    true
+        length:     7:36
+    "host-routing":
+        title:      Hostname Routing
+        is_free:    true
+        length:     1:49
+    "dialog-progress-autocomplete":
+        title:      "New Dialog Goodies: Autocomplete, Progress"
+        is_free:    true
+        length:     4:40
+    "symfony3":
+        title:      Upgrade to Symfony 3.0?
+        is_free:    true
+        length:     1:55
+    extras:
+        title:      Extras
+        is_free:    true
+        length:     1:34

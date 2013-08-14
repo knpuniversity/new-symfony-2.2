@@ -1,0 +1,20 @@
+{% extends 'EventBundle::layout.html.twig' %}
+
+{% block stylesheets %}
+    {{ parent() }}
+
+    <link rel="stylesheet" href="{{ asset('bundles/event/css/new_stuff.css') }}" />
+{% endblock %}
+
+{% block body %}
+    <h1 class="yo-dawg">Yo Dawg, I heard you like fragments!</h1>
+
+    <div class="fragment-container">
+        Outside Fragment!
+        {% render 'EventBundle:NewFeatures:inner' with {
+            'color': 'lightblue'
+        }, {
+            'standalone': true
+        } %}
+    </div>
+{% endblock %}

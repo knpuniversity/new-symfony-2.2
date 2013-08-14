@@ -1,0 +1,15 @@
+_something_super_duper_crazy:
+    resource: routing/default.yml
+
+EventBundle_event:
+    resource: "@EventBundle/Resources/config/routing/event.yml"
+    prefix:   /event
+
+EventBundle_event_annotation:
+    resource: "@EventBundle/Controller"
+    prefix:   /event
+    type:     annotation
+
+new_features_import:
+    resource: "@EventBundle/Resources/config/routing/new_features.yml"
+    prefix:   /new

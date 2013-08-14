@@ -1,0 +1,10 @@
+fragments:
+    path: /fragments
+    defaults:  { _controller: EventBundle:NewFeatures:fooAction }
+    host:    foo.%base_host%
+    methods: [GET,POST]
+    schemes: https
+
+fragments2:
+    path: /fragments
+    defaults:  { _controller: EventBundle:NewFeatures:testFragments }

@@ -1,0 +1,3 @@
+fragemnts:
+    pattern: /fragments
+    defaults:  { _controller: EventBundle:NewFeatures:testFragments }
