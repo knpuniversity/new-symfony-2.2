@@ -27,27 +27,34 @@ chapters:
         title:      Woh! 2.2 is here!
         is_free:    true
         length:     1:22
+        video_key:  32xhscvunu
     upgrading:
         title:      Upgrading to 2.2
         is_free:    true
         length:     3:46
+        video_key:  dqo9xqrtzv
     "fragments-esi-caching":
         title:      Fragments, ESI and Caching
         is_free:    true
         length:     7:36
+        video_key:  b0f8smsvox
     "host-routing":
         title:      Hostname Routing
         is_free:    true
         length:     1:49
+        video_key:  qqj2hhjnaf
     "dialog-progress-autocomplete":
         title:      "New Dialog Goodies: Autocomplete, Progress"
         is_free:    true
         length:     4:40
+        video_key:  q5ds44prou
     "symfony3":
         title:      Upgrade to Symfony 3.0?
         is_free:    true
         length:     1:55
+        video_key:  fgcz4xx66x
     extras:
         title:      Extras
         is_free:    true
         length:     1:34
+        video_key:  ck111cv7bd
