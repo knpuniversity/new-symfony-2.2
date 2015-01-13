@@ -18,6 +18,7 @@ summary: |
         * New tools inside the console commands
         * Upgrading to Symfony3!!??
 illustration: new-2.2.png
+videoDownloadExtension: mov
 priority: 120
 tags:
     - { name: symfony }
