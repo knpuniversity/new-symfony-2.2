@@ -1,6 +1,4 @@
 title:  What's new in Symfony 2.2 + ESI Fragments Bonus
-price:  0
-length: 22:41
 summary: |
     Symfony 2.2 is out and wonderful! If you're thinking about upgrading,
     there are a few important changes to be aware of and a bunch of great
@@ -18,44 +16,33 @@ summary: |
         * New tools inside the console commands
         * Upgrading to Symfony3!!??
 illustration: new-2.2.png
-videoDownloadExtension: mov
-priority: 120
-tags:
-    - { name: symfony }
 
 chapters:
     upgrade:
         title:      Woh! 2.2 is here!
         is_free:    true
-        length:     1:22
-        video_key:  32xhscvunu
+        video_key:  https://vimeo.com/album/3578148/video/140211556
     upgrading:
         title:      Upgrading to 2.2
         is_free:    true
-        length:     3:46
-        video_key:  dqo9xqrtzv
+        video_key:  https://vimeo.com/album/3578148/video/140211554
     "fragments-esi-caching":
         title:      Fragments, ESI and Caching
         is_free:    true
-        length:     7:36
-        video_key:  b0f8smsvox
+        video_key:  https://vimeo.com/album/3578148/video/140211553
     "host-routing":
         title:      Hostname Routing
         is_free:    true
-        length:     1:49
-        video_key:  qqj2hhjnaf
+        video_key:  https://vimeo.com/album/3578148/video/140211555
     "dialog-progress-autocomplete":
         title:      "New Dialog Goodies: Autocomplete, Progress"
         is_free:    true
-        length:     4:40
-        video_key:  q5ds44prou
+        video_key:  https://vimeo.com/album/3578148/video/140211557
     "symfony3":
         title:      Upgrade to Symfony 3.0?
         is_free:    true
-        length:     1:55
-        video_key:  fgcz4xx66x
+        video_key:  https://vimeo.com/album/3578148/video/140211552
     extras:
         title:      Extras
         is_free:    true
-        length:     1:34
-        video_key:  ck111cv7bd
+        video_key:  https://vimeo.com/album/3578148/video/140211560
