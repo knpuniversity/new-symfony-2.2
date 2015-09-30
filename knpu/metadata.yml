@@ -21,28 +21,28 @@ chapters:
     upgrade:
         title:      Woh! 2.2 is here!
         is_free:    true
-        video_key:  https://vimeo.com/album/3578148/video/140211556
+        video_key:  140211556
     upgrading:
         title:      Upgrading to 2.2
         is_free:    true
-        video_key:  https://vimeo.com/album/3578148/video/140211554
+        video_key:  140211554
     "fragments-esi-caching":
         title:      Fragments, ESI and Caching
         is_free:    true
-        video_key:  https://vimeo.com/album/3578148/video/140211553
+        video_key:  140211553
     "host-routing":
         title:      Hostname Routing
         is_free:    true
-        video_key:  https://vimeo.com/album/3578148/video/140211555
+        video_key:  140211555
     "dialog-progress-autocomplete":
         title:      "New Dialog Goodies: Autocomplete, Progress"
         is_free:    true
-        video_key:  https://vimeo.com/album/3578148/video/140211557
+        video_key:  140211557
     "symfony3":
         title:      Upgrade to Symfony 3.0?
         is_free:    true
-        video_key:  https://vimeo.com/album/3578148/video/140211552
+        video_key:  140211552
     extras:
         title:      Extras
         is_free:    true
-        video_key:  https://vimeo.com/album/3578148/video/140211560
+        video_key:  140211560
